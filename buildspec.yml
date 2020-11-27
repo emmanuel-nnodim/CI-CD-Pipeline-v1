@@ -19,3 +19,5 @@ artifacts:
     - appspec.yml
     - scripts/install_dependencies
     - scripts/start_server
+    - pic_bulboff.gif
+    - pic_bulbon.gif
